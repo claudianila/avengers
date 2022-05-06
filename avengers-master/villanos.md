@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * Red Skill
+* Dr. Herrera
